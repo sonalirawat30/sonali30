@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "name": "Rajat",
+            "gender": "male",
+            "company": "MNC",
+            "email": "rajatsingh@gmail.com",
+            "age": 30
+        },
+        {
+            "name": "Jyoti",
+            "gender": "Female",
+            "company": "NTT",
+            "email": "jyoti@gmail.com",
+            "age": 35
+        },
+        {
+            "name": "Mannu",
+            "gender": "Male",
+            "company": "Automobiles",
+            "email": "mannu@gmail.com",
+            "age": 30
+        }
+    ]
+}
